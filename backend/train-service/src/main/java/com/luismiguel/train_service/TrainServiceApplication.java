@@ -1,4 +1,4 @@
-package com.luismigul.train_service;
+package com.luismiguel.train_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

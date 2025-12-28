@@ -1,4 +1,4 @@
-package com.luismigul.train_service;
+package com.luismiguel.train_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
